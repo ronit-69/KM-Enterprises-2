@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KM-Enterprises-2/static/css/main.bc7e9b2e.css",
-    "main.js": "/KM-Enterprises-2/static/js/main.1537e962.js",
+    "main.js": "/KM-Enterprises-2/static/js/main.f285b173.js",
     "static/js/453.d92ebedd.chunk.js": "/KM-Enterprises-2/static/js/453.d92ebedd.chunk.js",
     "static/media/land-dev.jpg": "/KM-Enterprises-2/static/media/land-dev.c118c48c8138e4233ff0.jpg",
     "static/media/km-logo-main.png": "/KM-Enterprises-2/static/media/km-logo-main.1171602521d3004c1946.png",
@@ -14,11 +14,11 @@
     "static/media/cfo.jpg": "/KM-Enterprises-2/static/media/cfo.191e261610bac1afdec9.jpg",
     "index.html": "/KM-Enterprises-2/index.html",
     "main.bc7e9b2e.css.map": "/KM-Enterprises-2/static/css/main.bc7e9b2e.css.map",
-    "main.1537e962.js.map": "/KM-Enterprises-2/static/js/main.1537e962.js.map",
+    "main.f285b173.js.map": "/KM-Enterprises-2/static/js/main.f285b173.js.map",
     "453.d92ebedd.chunk.js.map": "/KM-Enterprises-2/static/js/453.d92ebedd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7e9b2e.css",
-    "static/js/main.1537e962.js"
+    "static/js/main.f285b173.js"
   ]
 }
