@@ -676,14 +676,14 @@ const App = () => {
     {
       name: "Harsh Patil",
       position: "Chief Technology Officer",
-      description: "Technology strategist with expertise in operational automation and digital transformation. Aarav drives innovation across all KM Enterprises services.",
+      description: "Technology strategist with expertise in operational automation and digital transformation. Harsh drives innovation across all KM Enterprises services.",
       icon: <FaLightbulb />,
       image: ctoImage
     },
     {
       name: "Mahendra Patil",
       position: "Chief Financial Officer",
-      description: "Financial expert ensuring sustainable growth and fiscal responsibility. Priya oversees all financial operations and strategic investments.",
+      description: "Financial expert ensuring sustainable growth and fiscal responsibility. Mahendra oversees all financial operations and strategic investments.",
       icon: <FaHandshake />,
       image: cfoImage
     }
