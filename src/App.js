@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
+import kmLogoMain from "./logo/km-logo-main.png";
 
 import styled from 'styled-components';
 import { 
@@ -737,8 +738,9 @@ const App = () => {
     onClick={() => scrollTo('home')}
     style={{ cursor: 'pointer' }}
   >
+    
     <img 
-      src="/logo/km-logo-main.png" 
+      src={kmLogoMain} 
       alt="KM Enterprises"
       style={{ height: '50px' }}
     />
@@ -1333,7 +1335,7 @@ const App = () => {
           viewport={{ once: true }}
         >
           <img 
-    src="/logo/km-logo-main.png" 
+    src={kmLogoMain}
     alt="KM Enterprises"
     style={{ height: '60px', marginBottom: '1.5rem' }}
   />
